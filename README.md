@@ -1,6 +1,11 @@
-# Basic-Project (Master branch)
+# Selenium IDE Import Project (Master branch) - 06/08/16
 
-##Warm up Day 04: Basic Project -- 05/23/2016
-To stock up various classes to be created during the course
+*Project that uses Selenium IDE and exports the test case to Java with TestNG. Code is then modified to support data driven testing with appropriate assertions.*
+
+**Java 7**
+
+* Maven
+* Selenium
+* TestNG
 
 [Arunkumar Venkatraman](http://sqasolution.com)
