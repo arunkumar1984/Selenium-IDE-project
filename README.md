@@ -5,7 +5,8 @@
 **Java 7**
 
 * Maven
-* Selenium
 * TestNG
+* Selenium WebDriver
+>>>>>>> origin/av-auto-project
 
 [Arunkumar Venkatraman](http://sqasolution.com)
